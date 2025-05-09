@@ -1,4 +1,7 @@
-# API 101
+---
+title: API 101
+layout: default
+---
 
 ## Introduction
 
